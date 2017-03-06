@@ -1,4 +1,6 @@
-//To find longest region of 1's in a 2D matrix using FloodFill algorithm
+//To find longest region of 1's in a 2D matrix
+//Subhasarthak Samantaray
+//IIIT BBSR
 
 #include <iostream>
 #include <cstdlib>
