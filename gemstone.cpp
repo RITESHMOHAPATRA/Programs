@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-  int n,x = 10000;
+  int n;
   cout << "\n Enter the number of strings:";
   cin >> n;
   vector<char> vec;
@@ -22,17 +22,10 @@ int main() {
     }
 
     int t = ste.size();
-    if(t < x)
-      x = t;
     vec.insert(vec.begin() + pos,ste.begin(),ste.end());
     pos += t;
   }
-
-  cout << "Vector elements:";
-  for(auto i: vec)
-    cout << i << "\t";
-
-  sort(vec.begin(),vec.end());
+  
   int counter = 0;
   int j = 1;
   for(int i=0;i<vec.size();i = i+j){
