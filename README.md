@@ -10,5 +10,5 @@
           
 #### 4. Min Cost Path -
           Find the minimum cost to reach from one cell to another where each cell represents 
-          the cost of traversing through that list.
+          the cost of traversing through that cell.
           
