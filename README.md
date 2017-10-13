@@ -8,3 +8,7 @@
 #### 3. Longest Increasing Subsequence -
           Find the length of the subsequence which is in increasing order in an array.
           
+#### 4. Min Cost Path -
+          Find the minimum cost to reach from one cell to another where each cell represents 
+          the cost of traversing through that list.
+          
