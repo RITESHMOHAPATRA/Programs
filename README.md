@@ -13,3 +13,9 @@
 4. **Min Cost Path** -
 
       Find the minimum cost to reach from one cell to another where each cell represents the cost of traversing through that cell.
+      
+ ### Misc Questions
+ 
+ 1. **Check Permutation** -
+ 
+      Given two strings s & t . Check whether t is a permutation of s or not.
