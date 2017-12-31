@@ -27,3 +27,11 @@
  3. **OneAway** -
 
       Given two strings s & t . Check if they are one or zero edit away.
+      
+ 4. **Delete Duplicates** -
+ 
+      Delete duplicate elements from an unsorted linked list.
+      
+ 5. **String Compression** -
+      
+      Given a string like aaaabbb . Convert it to a format like a4b3. 
